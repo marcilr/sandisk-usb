@@ -1,0 +1,12 @@
+sandisk.txt
+Created Fri Mar  2 09:06:34 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SanDisk USB products
+
+
+Links
+=====
+SanDisk
+https://www.sandisk.com/
