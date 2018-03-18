@@ -1,0 +1,23 @@
+SDDDC2-256G-G46.txt
+Created Sun Mar 18 13:05:03 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SanDisk Ultra 256GB Dual Drive USB Type-C (SDDDC2-256G-G46)
+
+
+make:        SanDisk
+model:       SDDDC2-256G-G46
+description: 256GB USB 3.1 speeds of up to 150MB/s storage
+capacity:    256GB
+connectors:  1x type-c
+             1x type-a traditional USB 
+
+price: $78.70 (amazon prime - March 18, 2018)
+
+
+Links
+=====
+SanDisk Ultra 256GB Dual Drive USB Type-C (SDDDC2-256G-G46)
+price: $78.70 (amazon prime - March 18, 2018)
+https://www.amazon.com/SanDisk-Ultra-128GB-Type-C-SDDDC2-128G-G46/dp/B06XC1WGQR/ref=sr_1_3?ie=UTF8&qid=1521404039&sr=8-3&keywords=sandisk%2Btype-c&th=1
