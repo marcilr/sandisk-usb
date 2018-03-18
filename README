@@ -12,6 +12,18 @@ sandisk.txt
   SanDisk USB products
   https://www.sandisk.com/
 
+SDDDC2-256G-G46.txt
+  SanDisk Ultra 256GB Dual Drive USB Type-C (SDDDC2-256G-G46)
+
+  make:        SanDisk
+  model:       SDDDC2-256G-G46
+  description: 256GB USB 3.1 speeds of up to 150MB/s storage
+  capacity:    256GB
+  connectors:  1x type-c
+               1x type-a traditional USB
+
+  price: $78.70 (amazon prime - March 18, 2018)
+
 SDCZ33-064G-B35.txt
   SanDisk Cruzer Fit CZ33 64GB USB 2.0
   Low-Profile Flash Drive- SDCZ33-064G-B35
