@@ -1,0 +1,21 @@
+extension-cable.txt
+Created Tue Apr 10 10:36:51 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+Extension cables for USB Type-C
+
+CY USB 3.1 Type C USB-C Male to Female Data Extension Cable
+for Laptop & Macbook & Tablet & Mobile Phone 200cm
+price: $10.90 (amazon prime - April 10, 2018)
+https://www.amazon.com/Female-Extension-Laptop-Macbook-Tablet/dp/B072KGKY8W/ref=sr_1_11?s=electronics&ie=UTF8&qid=1523385335&sr=1-11&keywords=usb+type-c+2m+extension+cable
+
+JSER USB-C USB 3.1 Type C Male to Female Extension Data Cable
+for Laptop & Macbook Tablet Mobile Phone 2m
+price: $11.88 (amazon prime - April 10, 2018)
+https://www.amazon.com/JSER-Female-Extension-Laptop-Macbook/dp/B072QYBWQ8/ref=sr_1_4?s=electronics&ie=UTF8&qid=1523385541&sr=1-4&keywords=type-c+2m+extension
+
+Thunderbolt 3 USB-C Extension Cable, DISDIM USB 3.1 Type C Charging, Audio / Video Transfer and Data Sync Extend Adapter Cord [183cm/6FT]
+for MacBook Pro, Nintendo Switch and USB C HUB
+price: $14.99 (amazon prime - April 10, 2018)
+https://www.amazon.com/dp/B075MBS6JY/ref=sxbs_sxwds-stvpv2_2?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3534659722&pd_rd_wg=Weykt&pf_rd_r=8MVNV6PB6V6ZG8Q2EVX2&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=B075MBS6JY&pd_rd_w=wGRTI&pf_rd_i=type-c+2m+extension&pd_rd_r=2e6967af-3e20-4bcf-b8e3-fd41b8638a2e&ie=UTF8&qid=1523385541&sr=2
+
