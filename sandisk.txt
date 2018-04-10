@@ -13,6 +13,17 @@ o 32GB  $10.99
 o 64GB  $17.99
 
 
+USB Type-C and Type-A combo storage:
+
+Size    Model             Price
+----------------------------------------------------------------
+256Gb   SDDDC2-256G-G46   $72.45 (amazon prime - April 10, 2018)
+128GB   SDDDC2-128G-G46   $38.49 (amazon prime - April 10, 2018)
+64GB    SDDDC2-064G-G46   $24.99 (amazon prime - April 10, 2018)
+32GB    SDDDC2-032G-G46   $16.95 (amazon prime - April 10, 2018)
+16GB    SDDDC2-016G-G46   $15.00 (amazon prime - April 10, 2018)
+
+
 Links
 =====
 SanDisk
