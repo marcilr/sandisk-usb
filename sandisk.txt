@@ -13,7 +13,9 @@ o 32GB  $10.99
 o 64GB  $17.99
 
 
-USB Type-C and Type-A combo storage:
+SanDisk Ultra Dual Drive
+========================
+Has USB Type-C and Type-A connectors at 150Mbps
 
 Size    Model             Price
 ----------------------------------------------------------------
@@ -24,7 +26,25 @@ Size    Model             Price
 16GB    SDDDC2-016G-G46   $15.00 (amazon prime - April 10, 2018)
 
 
+Another approach is a large-capacity external drive, like Samsung’s
+Portable SSD T5.  Available in capacities ranging from 250GB to 2TB
+(at prices from $125 to $740), it’s physically smaller than most
+external drives and is for data hoarders who can’t seem to delete
+anything.  Happily, it relies on the USB 3.1 Rev 2 specification
+and moves up to 4.3Gbps, according to Samsung.
+--computerworld.com
+
+
 Links
 =====
 SanDisk
 https://www.sandisk.com/
+
+SanDisk Ultra Dual Drive
+Has USB Type-C and Type-A connectors at 150Mbps
+https://www.sandisk.com/home/mobile-device-storage/ultra-dual-drive-usb-type-c
+
+USB-C explained: How to get the most from it (and why it's great)
+The era of USB-C computing is here. We’ve got tips on how to take
+advantage of those new ports on your laptop, phone or tablet.
+https://www.computerworld.com/article/2488194/computer-hardware/usb-c-explained-how-to-get-the-most-from-it-and-why-its-great.html
