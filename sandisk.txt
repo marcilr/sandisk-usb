@@ -7,7 +7,7 @@ SanDisk USB products
 
 
 Amazon prime - March 2, 2018:
-o 8GB    $8.34
+o  8GB   $8.34
 o 16GB   $6.97
 o 32GB  $10.99
 o 64GB  $17.99
@@ -15,7 +15,14 @@ o 64GB  $17.99
 
 SanDisk Ultra Dual Drive
 ========================
-Has USB Type-C and Type-A connectors at 150Mbps
+Dual USB Type-C and Type-A Connectors at 150Mbps
+
+With dual USB connectors, the Ultra Dual Drive is compatible
+with both the new USB Type-C ports and the traditional USB
+Type-A ports.  Use it to free up space on your smartphone or 
+tablet (1) or transfer files between multiple devices.
+--amazon.com/SanDisk-Ultra-Drive-Type-C-SDDDC2-016G-G46/
+
 
 Size    Model             Price
 ----------------------------------------------------------------
@@ -39,6 +46,11 @@ Links
 =====
 SanDisk
 https://www.sandisk.com/
+
+SanDisk Ultra 16GB Dual Drive USB Type-C (SDDDC2-016G-G46)
+16G
+Price: $14.99 (amazon prime - April 19, 2018)
+https://www.amazon.com/SanDisk-Ultra-Drive-Type-C-SDDDC2-016G-G46/dp/B01EZ0X034/ref=pd_lpo_vtph_147_lp_t_3?_encoding=UTF8&psc=1&refRID=XKSY1WSYQN14YQHERD7E
 
 SanDisk Ultra Dual Drive
 Has USB Type-C and Type-A connectors at 150Mbps
