@@ -15,7 +15,15 @@ sandisk.txt
   SanDisk USB products
   https://www.sandisk.com/
 
-SDDDC2-256G-G46.txt
+SDDDC2-064G-G46.txt   <=== Purchased 2x on April 19, 2018
+  make:        Sandisk
+  description: Sandisk Ultra 64GB Dual Drive USB Type-C
+  model:       SDDDC2-064G-G46
+  capacity:    64GB
+  speed:       USB 3.1 to 150MB/s
+  price:       $24.99 (amazon prime - April 19, 2018)
+
+SDDDC2-256G-G46.txt   <=== Don't own
   SanDisk Ultra 256GB Dual Drive USB Type-C (SDDDC2-256G-G46)
 
   make:        SanDisk
