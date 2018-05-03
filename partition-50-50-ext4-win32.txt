@@ -1,0 +1,8 @@
+partition-50-50-ext4-win32.txt
+Created Thu May  3 10:57:08 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Partitioning of 2x Sandisk Ultra 64GB SDDDC2-064G-G46
+with 50% ext4 and 50% win32 for access by Debian stretch 9.4 amd64
+and macBook Pro 2016.
