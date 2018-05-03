@@ -11,6 +11,11 @@ extension-cable.txt
 links.txt
   SanDisk related links
 
+partition-50-50-ext4-win32.txt
+  Partitioning of 2x Sandisk Ultra 64GB SDDDC2-064G-G46
+  with 50% ext4 and 50% win32 for access by Debian stretch 9.4 amd64
+  and macBook Pro 2016.
+	
 sandisk.txt
   SanDisk USB products
   https://www.sandisk.com/
