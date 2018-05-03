@@ -1,0 +1,23 @@
+SDDDC2-064G-G46.txt
+Created Thu May  3 10:53:35 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+make:        Sandisk
+description: Sandisk Ultra 64GB Dual Drive USB Type-C
+model:       SDDDC2-064G-G46
+capacity:    64GB
+speed:       USB 3.1 to 150MB/s
+price:       $24.99 (amazon prime - April 19, 2018)
+
+
+Thu Apr 19 09:40:11 AKDT 2018
+=============================
+Ordered 2x Sandisk Ultra 64GB SDDDC2-064G-G46
+
+2x $24.99 = $49.98
+
+Put on platinum
+
+Thank You! Your 1-Click order has been placed.
+
