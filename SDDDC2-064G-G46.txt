@@ -8,7 +8,20 @@ description: Sandisk Ultra 64GB Dual Drive USB Type-C
 model:       SDDDC2-064G-G46
 capacity:    64GB
 speed:       USB 3.1 to 150MB/s
+connectors:  USB Type-C and USB Type-A; USB 3.1 (Gen 1) 
 price:       $24.99 (amazon prime - April 19, 2018)
+
+
+
+Fri Jul 13 10:35:56 AKDT 2018
+=============================
+Put one into the GCI NIT macBook Pro running macOS Sierra v10.12.6
+
+Prompted to:
+  The disk you inserted was not readable by this computer.
+  Initialize...   Ignore   Eject
+
+  click Initialize...
 
 
 Thu Apr 19 09:40:11 AKDT 2018
