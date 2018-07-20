@@ -11,6 +11,17 @@ extension-cable.txt
 links.txt
   SanDisk related links
 
+MUF-256AB-AM.txt
+  Samsung MUF-256AB/AM FIT Plus 256GB - 300MB/s USB 3.1 Flash Drive
+  Great looking usbkey
+
+  make:  Samsung
+  model: MUF-256AB/AM
+  price:  32GB $13.99
+          64GB $24.99
+         128GB $44.99
+         256GB $84.99 <===
+
 partition-50-50-ext4-win32.txt
   Partitioning of 2x Sandisk Ultra 64GB SDDDC2-064G-G46
   with 50% ext4 and 50% win32 for access by Debian stretch 9.4 amd64
