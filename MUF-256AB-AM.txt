@@ -1,0 +1,56 @@
+MUF-256AB-AM.txt
+Created Fri Jul 20 10:02:33 AKDT 2018
+by Raymond E. Marcil <rmarcil@gci.com>
+
+
+Samsung MUF-256AB/AM FIT Plus 256GB - 300MB/s USB 3.1 Flash Drive
+
+Great looking usbkey
+
+make:  Samsung
+model: MUF-256AB/AM
+price:  32GB $13.99
+        64GB $24.99
+       128GB $44.99
+       256GB $84.99 <===
+
+o Redefine everyday file transfers with speeds up to 300MB/s
+o Exceptionally compact USB flash drive for an unnoticeable,
+  seamless fit, designed with a key ring to prevent loss
+o Reliable and secure storage for your photos, videos, music, and files
+o Safeguard your data backed by a 5-year limited warranty (Water proof,
+  shock proof, magnet proof, temperature proof, x-ray proof)
+o USB 3.1 flash drive with backwards compatibility (USB 3.0, USB 2.0)
+
+(1) Up to 300 MB/s for 256/128GB models; Up to 200 MB/s for 64/32GB models.
+
+(2) Minimum of 10 secs for 256/128GB models; minimum of 14 secs for 64/32GB 
+    models (tested with combination of Asus Z370-G, Intel i7-8700K@3.70GHz,
+    8GB DDR4 and Windows 10 Enterprise 64bit).
+
+(3) Up to 72 hrs in seawater.
+
+(4) Up to 1,500 gravitational acceleration.
+
+(5) Withstands -25°C to 85°C operating, -40°C to 85°C non-operating.
+
+(6) Up to 15,000 gauss (equal to MRI).
+
+(7) Up to 50 Roentgen (equal to airport X-ray machines).
+
+Hardware Connectivity:   USB 3.0
+Item Dimensions:         0.9 x 0.7 x 0.3in
+Item Weight:             0.11 ounces
+Memory Storage Capacity: 256GB
+
+price: $84.99 (amazon prime - July 20, 2018)
+
+
+Links
+=====
+Samsung MUF-256AB/AM FIT Plus 256GB - 300MB/s USB 3.1 Flash Drive
+price:  32GB $13.99
+        64GB $24.99
+       128GB $44.99
+       256GB $84.99 <===
+https://www.amazon.com/Samsung-MUF-256AB-AM-Plus-256GB/dp/B07D7Q41PM/ref=sr_1_3?s=electronics&rps=1&ie=UTF8&qid=1532110113&sr=1-3&keywords=samsung+MUF-256AB%2FAM++amazon+prime
